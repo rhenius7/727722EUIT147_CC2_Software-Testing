@@ -1,0 +1,12 @@
+2024-04-26 19:04:58,306 [main] INFO  com.example.AppTest - Url opened
+2024-04-26 19:05:00,845 [main] INFO  com.example.AppTest - Entered Books
+2024-04-26 19:05:28,978 [main] INFO  com.example.AppTest - Chetan Bhagat found
+2024-04-26 19:05:28,978 [main] INFO  com.example.AppTest - Testcase passed
+2024-04-26 19:08:30,425 [main] INFO  com.example.AppTest - clicked AudioBooks 100
+2024-04-26 19:08:43,662 [main] INFO  com.example.AppTest - window scolled
+2024-04-26 19:21:30,357 [main] INFO  com.example.AppTest - Url opened
+2024-04-26 19:21:32,705 [main] INFO  com.example.AppTest - Entered Books
+2024-04-26 19:21:48,922 [main] INFO  com.example.AppTest - Chetan Bhagat found
+2024-04-26 19:21:48,922 [main] INFO  com.example.AppTest - Testcase passed
+2024-04-26 19:26:20,487 [main] INFO  com.example.AppTest - clicked AudioBooks 100
+2024-04-26 19:26:31,172 [main] INFO  com.example.AppTest - window scolled
