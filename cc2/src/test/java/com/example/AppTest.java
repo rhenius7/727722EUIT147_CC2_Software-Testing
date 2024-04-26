@@ -144,13 +144,13 @@ public class AppTest {
                 .findElement(By.xpath("/html/body/main/div[3]/div[3]/div/section/div/div/div/div/div/a[1]/span"));
         e.click();
         Thread.sleep(5000);
-        // js.executeScript("window.scrollBy(0,100)");
-        // driver.findElement(By.xpath("//*[@id='rewards-modal-link']"));
-        // WebElement check2 =
-        // driver.findElement(By.xpath("//*[@id=\"dialog-title\"]"));
-        // if (check2.getText().contains("Sign in or Create an Account"))
-        // log.info("Sign in first!!");
-        // log.info("TestCase 3 passed Successfully!");
+        js.executeScript("window.scrollBy(0,100)");
+        driver.findElement(By.xpath("//*[@id='rewards-modal-link']"));
+        WebElement check2 =
+        driver.findElement(By.xpath("//*[@id=\"dialog-title\"]"));
+        if (check2.getText().contains("Sign in or Create an Account"))
+        log.info("Sign in first!!");
+        log.info("TestCase 3 passed Successfully!");
 
     }
 
